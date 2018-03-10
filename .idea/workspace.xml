@@ -2,33 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f8de986a-4736-49ef-b6e8-ba0e75d9ad17" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/DesignPatterns.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/DesignPatterns/pl/sdacademy/patterns/builder/BuilderMain.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/DesignPatterns/pl/sdacademy/patterns/builder/Car$1.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/DesignPatterns/pl/sdacademy/patterns/builder/Car$Builder.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/DesignPatterns/pl/sdacademy/patterns/builder/Car.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/DesignPatterns/pl/sdacademy/patterns/factorymethod/FactoryMethodDemo.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/DesignPatterns/pl/sdacademy/patterns/factorymethod/FactoryMethodMain.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/DesignPatterns/pl/sdacademy/patterns/factorymethod/ResultSet.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/DesignPatterns/pl/sdacademy/patterns/singleton/Main.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/DesignPatterns/pl/sdacademy/patterns/singleton/Singleton.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/DesignPatterns/pl/sdacademy/patterns/singleton/SingletonEnum.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/pl/sdacademy/patterns/builder/BuilderMain.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/pl/sdacademy/patterns/builder/Car.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/pl/sdacademy/patterns/factory/FactoryMain.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/pl/sdacademy/patterns/factory/Shape.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/pl/sdacademy/patterns/factory/ShapeFactory.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/pl/sdacademy/patterns/factorymethod/FactoryMethodDemo.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/pl/sdacademy/patterns/factorymethod/FactoryMethodMain.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/pl/sdacademy/patterns/factorymethod/ResultSet.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/pl/sdacademy/patterns/singleton/Main.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/pl/sdacademy/patterns/singleton/Singleton.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/pl/sdacademy/patterns/singleton/SingletonEnum.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/pl/sdacademy/patterns/adapter/AdapterMain.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/pl/sdacademy/patterns/adapter/UserData.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/pl/sdacademy/patterns/adapter/UserModel.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,48 +16,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ShapeFactory.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/pl/sdacademy/patterns/factory/ShapeFactory.java">
+      <file leaf-file-name="UserData.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pl/sdacademy/patterns/adapter/UserData.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-              <folding>
-                <element signature="e#657#658#0" expanded="true" />
-                <element signature="e#688#689#0" expanded="true" />
-                <element signature="e#733#734#0" expanded="true" />
-                <element signature="e#779#780#0" expanded="true" />
-                <element signature="e#819#820#0" expanded="true" />
-                <element signature="e#863#864#0" expanded="true" />
-                <element signature="e#963#964#0" expanded="true" />
-                <element signature="e#994#995#0" expanded="true" />
-                <element signature="e#1039#1040#0" expanded="true" />
-                <element signature="e#1087#1088#0" expanded="true" />
-                <element signature="e#1123#1124#0" expanded="true" />
-                <element signature="e#1159#1160#0" expanded="true" />
-                <element signature="e#1259#1260#0" expanded="true" />
-                <element signature="e#1288#1289#0" expanded="true" />
-                <element signature="e#1333#1334#0" expanded="true" />
-                <element signature="e#1361#1362#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FactoryMain.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/pl/sdacademy/patterns/factory/FactoryMain.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+            <state relative-caret-position="190">
+              <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Shape.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/pl/sdacademy/patterns/factory/Shape.java">
+      <file leaf-file-name="UserModel.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pl/sdacademy/patterns/adapter/UserModel.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" column="21" lean-forward="false" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+            <state relative-caret-position="171">
+              <caret line="9" column="30" lean-forward="false" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AdapterMain.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/pl/sdacademy/patterns/adapter/AdapterMain.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="623">
+              <caret line="36" column="44" lean-forward="false" selection-start-line="36" selection-start-column="44" selection-end-line="36" selection-end-column="44" />
               <folding />
             </state>
           </provider>
@@ -125,6 +84,10 @@
         <option value="$PROJECT_DIR$/src/pl/sdacademy/patterns/factory/Shape.java" />
         <option value="$PROJECT_DIR$/src/pl/sdacademy/patterns/factory/ShapeFactory.java" />
         <option value="$PROJECT_DIR$/src/pl/sdacademy/patterns/factory/FactoryMain.java" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" />
+        <option value="$PROJECT_DIR$/src/pl/sdacademy/patterns/adapter/UserData.java" />
+        <option value="$PROJECT_DIR$/src/pl/sdacademy/patterns/adapter/UserModel.java" />
+        <option value="$PROJECT_DIR$/src/pl/sdacademy/patterns/adapter/AdapterMain.java" />
       </list>
     </option>
   </component>
@@ -179,6 +142,13 @@
               <item name="DesignPatterns" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="patterns" type="462c0819:PsiDirectoryNode" />
+              <item name="adapter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesignPatterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignPatterns" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="patterns" type="462c0819:PsiDirectoryNode" />
               <item name="factory" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -200,6 +170,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$2/Languages" value="TEXT" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -365,7 +336,8 @@
     <option name="totallyTimeSpent" value="2502000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
+    <frame x="0" y="0" width="1280" height="800" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -374,9 +346,9 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22833562" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32769045" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3727648" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12088698" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18659128" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -519,8 +491,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/pl/sdacademy/patterns/factory/ShapeFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+        <state relative-caret-position="266">
+          <caret line="14" column="60" lean-forward="true" selection-start-line="14" selection-start-column="60" selection-end-line="14" selection-end-column="60" />
           <folding>
             <element signature="e#657#658#0" expanded="true" />
             <element signature="e#688#689#0" expanded="true" />
@@ -539,6 +511,38 @@
             <element signature="e#1333#1334#0" expanded="true" />
             <element signature="e#1361#1362#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="3" column="46" lean-forward="true" selection-start-line="3" selection-start-column="46" selection-end-line="3" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/sdacademy/patterns/adapter/UserData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/sdacademy/patterns/adapter/UserModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="30" lean-forward="false" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/sdacademy/patterns/adapter/AdapterMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="623">
+          <caret line="36" column="44" lean-forward="false" selection-start-line="36" selection-start-column="44" selection-end-line="36" selection-end-column="44" />
+          <folding />
         </state>
       </provider>
     </entry>

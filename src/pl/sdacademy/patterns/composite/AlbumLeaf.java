@@ -27,4 +27,14 @@ public class AlbumLeaf implements Component {
         }
         return length;
     }
+
+    @Override
+    public String toString() {
+        StringBuilder builder = new StringBuilder("\nAlbum leaf\n");
+        for (Component element : elements) {
+            builder.append("\t").append(element.toString()).append("\n");
+        }
+        builder.append("\n");
+        return builder.toString();
+    }
 }

@@ -13,13 +13,14 @@ public class CompositeMain {
         songs.add(new SongLeaf("ABCA", "ABC", 180));
         AlbumLeaf leaf = new AlbumLeaf(songs);
         songs.add(leaf);
-        songs.add(leaf);
-        songs.add(leaf);
-        songs.add(leaf);
+        songs.add(new SongLeaf("ABCA656556", "ABC", 180));
+
 
         AlbumLeaf root = new AlbumLeaf(songs);
 
         System.out.println(root.songCount()); // 8
         System.out.println(root.songLength()); // 1440
+
+        System.out.println(root);
     }
 }

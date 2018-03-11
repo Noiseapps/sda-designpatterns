@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f8de986a-4736-49ef-b6e8-ba0e75d9ad17" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/pl/sdacademy/patterns/decorator/Coffee.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/pl/sdacademy/patterns/decorator/CoffeeDecorator.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/pl/sdacademy/patterns/decorator/CoffeeWithMilk.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/pl/sdacademy/patterns/decorator/CoffeeWithSugar.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/pl/sdacademy/patterns/decorator/DecoratorMain.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/pl/sdacademy/patterns/decorator/Espresso.java" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="f8de986a-4736-49ef-b6e8-ba0e75d9ad17" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -33,21 +25,20 @@
       <file leaf-file-name="Espresso.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/pl/sdacademy/patterns/decorator/Espresso.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="40" lean-forward="true" selection-start-line="0" selection-start-column="40" selection-end-line="0" selection-end-column="40" />
+            <state relative-caret-position="133">
+              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
               <folding>
                 <element signature="e#123#124#0" expanded="true" />
-                <element signature="e#176#177#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CoffeeDecorator.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="CoffeeDecorator.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/pl/sdacademy/patterns/decorator/CoffeeDecorator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="12" column="16" lean-forward="false" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+            <state relative-caret-position="285">
+              <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
               <folding>
                 <element signature="e#171#172#0" expanded="true" />
                 <element signature="e#215#216#0" expanded="true" />
@@ -61,8 +52,8 @@
       <file leaf-file-name="CoffeeWithMilk.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/pl/sdacademy/patterns/decorator/CoffeeWithMilk.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="22" lean-forward="false" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+            <state relative-caret-position="228">
+              <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
               <folding>
                 <element signature="e#140#141#0" expanded="true" />
                 <element signature="e#171#172#0" expanded="true" />
@@ -71,11 +62,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CoffeeWithSugar.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CoffeeWithSugar.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/pl/sdacademy/patterns/decorator/CoffeeWithSugar.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="46" lean-forward="false" selection-start-line="2" selection-start-column="46" selection-end-line="2" selection-end-column="46" />
+            <state relative-caret-position="171">
+              <caret line="9" column="25" lean-forward="true" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
               <folding>
                 <element signature="e#142#143#0" expanded="true" />
                 <element signature="e#173#174#0" expanded="true" />
@@ -87,8 +78,8 @@
       <file leaf-file-name="DecoratorMain.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/pl/sdacademy/patterns/decorator/DecoratorMain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="145">
-              <caret line="9" column="16" lean-forward="false" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+            <state relative-caret-position="168">
+              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -474,7 +465,7 @@
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287483" sideWeight="0.503231" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.37001374" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37001374" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2874828" sideWeight="0.49676898" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -912,10 +903,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/sdacademy/patterns/decorator/Espresso.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding>
+            <element signature="e#123#124#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/pl/sdacademy/patterns/decorator/CoffeeWithMilk.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="22" lean-forward="false" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+        <state relative-caret-position="228">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding>
             <element signature="e#140#141#0" expanded="true" />
             <element signature="e#171#172#0" expanded="true" />
@@ -923,26 +924,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pl/sdacademy/patterns/decorator/CoffeeDecorator.java">
+    <entry file="file://$PROJECT_DIR$/src/pl/sdacademy/patterns/decorator/DecoratorMain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="16" lean-forward="false" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
-          <folding>
-            <element signature="e#171#172#0" expanded="true" />
-            <element signature="e#215#216#0" expanded="true" />
-            <element signature="e#256#257#0" expanded="true" />
-            <element signature="e#290#291#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="168">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pl/sdacademy/patterns/decorator/Espresso.java">
+    <entry file="file://$PROJECT_DIR$/src/pl/sdacademy/patterns/decorator/CoffeeWithSugar.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="40" lean-forward="true" selection-start-line="0" selection-start-column="40" selection-end-line="0" selection-end-column="40" />
+        <state relative-caret-position="171">
+          <caret line="9" column="25" lean-forward="true" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
           <folding>
-            <element signature="e#123#124#0" expanded="true" />
-            <element signature="e#176#177#0" expanded="true" />
+            <element signature="e#142#143#0" expanded="true" />
+            <element signature="e#173#174#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -955,21 +951,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pl/sdacademy/patterns/decorator/DecoratorMain.java">
+    <entry file="file://$PROJECT_DIR$/src/pl/sdacademy/patterns/decorator/CoffeeDecorator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="9" column="16" lean-forward="false" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pl/sdacademy/patterns/decorator/CoffeeWithSugar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="46" lean-forward="false" selection-start-line="2" selection-start-column="46" selection-end-line="2" selection-end-column="46" />
+        <state relative-caret-position="285">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding>
-            <element signature="e#142#143#0" expanded="true" />
-            <element signature="e#173#174#0" expanded="true" />
+            <element signature="e#171#172#0" expanded="true" />
+            <element signature="e#215#216#0" expanded="true" />
+            <element signature="e#256#257#0" expanded="true" />
+            <element signature="e#290#291#0" expanded="true" />
           </folding>
         </state>
       </provider>

@@ -11,4 +11,9 @@ public class CoffeeWithMilk extends CoffeeDecorator {
         super.drink();
         System.out.println("with milk");
     }
+
+    @Override
+    public double price() {
+        return super.price() + 5;
+    }
 }

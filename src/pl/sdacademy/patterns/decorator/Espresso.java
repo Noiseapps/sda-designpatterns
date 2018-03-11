@@ -6,4 +6,9 @@ public class Espresso implements Coffee {
     public void drink() {
         System.out.println("Drinking coffee");
     }
+
+    @Override
+    public double price() {
+        return 10;
+    }
 }

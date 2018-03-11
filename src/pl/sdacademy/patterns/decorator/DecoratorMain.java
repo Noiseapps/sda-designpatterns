@@ -9,9 +9,11 @@ public class DecoratorMain {
         CoffeeWithSugar coffeeWithSugar = new CoffeeWithSugar(coffeeWithMilk);
         coffeeWithSugar.drink();
 
-        new CoffeeWithMilk(new CoffeeWithSugar(new Espresso())).drink();
+        System.out.println(new CoffeeWithSugar(coffeeWithSugar).price());
 
-        new CoffeeWithSugar(new Espresso()).drink();
+//        new CoffeeWithMilk(new CoffeeWithSugar(new Espresso())).drink();
+//
+//        new CoffeeWithSugar(new Espresso()).drink();
 
     }
 }

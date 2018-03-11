@@ -12,4 +12,9 @@ public abstract class CoffeeDecorator implements Coffee {
     public void drink() {
         baseCoffee.drink();
     }
+
+    @Override
+    public double price() {
+        return baseCoffee.price();
+    }
 }

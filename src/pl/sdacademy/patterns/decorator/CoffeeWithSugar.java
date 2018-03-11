@@ -11,4 +11,9 @@ public class CoffeeWithSugar extends CoffeeDecorator {
         super.drink();
         System.out.println("with sugar");
     }
+
+    @Override
+    public double price() {
+        return super.price() + 2;
+    }
 }
